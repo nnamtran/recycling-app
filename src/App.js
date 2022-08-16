@@ -109,7 +109,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Let use Axios with React js</h1>
+      <h1>Waste Management App Demo</h1>
 
       {/* Search for products*/}
       <form>
